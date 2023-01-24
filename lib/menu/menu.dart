@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gebbywulandari_project/menu/biodata.dart';
-import 'package:gebbywulandari_project/menu/nama.dart';
-import 'package:gebbywulandari_project/menu/telepon.dart';
+import 'package:arinurcahya_project/menu/biodata.dart';
+import 'package:arinurcahya_project/menu/nama.dart';
+import 'package:arinurcahya_project/menu/telepon.dart';
 
 
 class menu extends StatelessWidget {
